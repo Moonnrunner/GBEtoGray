@@ -25,7 +25,7 @@ Usage:
 
 #### Fourth step: Run this program
 
-###$ Fifth step: Get new image
+#### Fifth step: Get new image
 
 Example:
 Photo before the program starts
