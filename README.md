@@ -23,3 +23,7 @@ Attation: Programme and image must located in the same folder
 Fourth step: Run this programme
 
 Step five: Get new image
+
+
+
+![alt text](http://url/to/nature.png)
