@@ -2,7 +2,7 @@
 
 ImageProcessor.
 
-This programme was written to deepen myself knowledge of the java programming language
+This program was written to deepen myself knowledge of the java programming language
 Programme covers topics such as:
 1) Work with different libraries(java.io.*;java.awt.*;javax.imageio.ImageIO)
 2) Work with streams(BufferedImage)
@@ -18,9 +18,9 @@ Second step: Open this code in your text editor and in line 12, instead of the n
 
 Third step: In line 37 instead of the name of nature_gray.jpg change the name as you see fit
 
-Attation: Programme and image must located in the same folder
+Attation: Program and image must located in the same folder
 
-Fourth step: Run this programme
+Fourth step: Run this program
 
 Step five: Get new image
 
