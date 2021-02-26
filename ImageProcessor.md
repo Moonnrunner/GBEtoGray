@@ -10,8 +10,13 @@ Programme covers topics such as:
 
 How it use.
 First step: Download file ImageProcessor.java on your computer
+
 Second step: Open this code in your text editor and in line 12, instead of the name of nature.png insert the name of your image
+
 Third step: In line 37 instead of the name of nature_gray.jpg change the name as you see fit
+
 Attation: Programme and image must located in the same folder
+
 Fourth step: Run this programme
+
 Step five: Get new image
