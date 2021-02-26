@@ -27,10 +27,10 @@ Java 8 or more modern versions
 
 ### Fifth step: Get new image
 
-Example:
+## Example:
 
-Photo before the program starts
+#### Photo before the program starts
 ![alt text](https://github.com/Moonnrunner/RGBtoGray/blob/master/Screens/nature.jpg)
 
-Photo after completing the program
+#### Photo after completing the program
 ![alt text](https://github.com/Moonnrunner/RGBtoGray/blob/master/Screens/nature_gray1.jpg)
