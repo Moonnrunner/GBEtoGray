@@ -13,9 +13,9 @@ Programme covers topics such as:
 Dependencies:
 Java 8 or more modern versions
 
-Usage:
+## Usage:
 
-## Attention: Program and image must located in the same folder
+### Attention: Program and image must located in the same folder
 
 ### First step: Download file ImageProcessor.java on your computer
 
