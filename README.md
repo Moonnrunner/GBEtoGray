@@ -28,6 +28,7 @@ Usage:
 #### Fifth step: Get new image
 
 Example:
+
 Photo before the program starts
 ![alt text](https://github.com/Moonnrunner/RGBtoGray/blob/master/Screens/nature.jpg)
 
