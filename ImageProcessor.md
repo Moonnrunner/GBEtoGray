@@ -9,6 +9,7 @@ Programme covers topics such as:
 5) Work with exception handling
 
 How it use.
+
 First step: Download file ImageProcessor.java on your computer
 
 Second step: Open this code in your text editor and in line 12, instead of the name of nature.png insert the name of your image
