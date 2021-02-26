@@ -10,7 +10,12 @@ Programme covers topics such as:
 4) Work with arrays
 5) Work with exception handling
 
-How it use.
+Dependencies:
+Java 8 or more modern versions
+
+Usage:
+
+Attention: Program and image must located in the same folder
 
 First step: Download file ImageProcessor.java on your computer
 
@@ -18,11 +23,9 @@ Second step: Open this code in your text editor and in line 12, instead of the n
 
 Third step: In line 37 instead of the name of nature_gray.jpg change the name as you see fit
 
-Attation: Program and image must located in the same folder
-
 Fourth step: Run this program
 
-Step five: Get new image
+Fifth step: Get new image
 
 Example:
 Photo before the program starts
