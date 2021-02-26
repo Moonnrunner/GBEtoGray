@@ -24,6 +24,9 @@ Fourth step: Run this programme
 
 Step five: Get new image
 
-
-
+Example:
+Photo before the program starts
 ![alt text](https://github.com/Moonnrunner/RGBtoGray/blob/master/Screens/nature.jpg)
+
+Photo after completing the program
+![alt text](https://github.com/Moonnrunner/RGBtoGray/blob/master/Screens/nature_gray1.jpg)
