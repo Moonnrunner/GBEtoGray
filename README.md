@@ -26,4 +26,4 @@ Step five: Get new image
 
 
 
-![alt text](httphttps://github.com/Moonnrunner/RGBtoGray/blob/master/Screens/nature.jpg)
+![alt text](https://github.com/Moonnrunner/RGBtoGray/blob/master/Screens/nature.jpg)
