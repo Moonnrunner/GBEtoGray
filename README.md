@@ -17,15 +17,15 @@ Java 8 or more modern versions
 
 ### Attention: Program and image must located in the same folder
 
-### First step: Download file ImageProcessor.java on your computer
+The first step: Download file ImageProcessor.java on your computer
 
-### Second step: Open this code in your text editor and in line 12, instead of the name of nature.png insert the name of your image
+The second step: Open this code in your text editor and in line 12, instead of the name of nature.png insert the name of your image
 
-### Third step: In line 37 instead of the name of nature_gray.jpg change the name as you see fit
+The third step: In line 37 instead of the name of nature_gray.jpg change the name as you see fit
 
-### Fourth step: Run this program
+The fourth step: Run this program
 
-### Fifth step: Get new image
+The fifth step: Get new image
 
 ## Example:
 
