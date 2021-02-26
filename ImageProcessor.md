@@ -1,4 +1,5 @@
 ImageProcessor
+
 This programme was written to deepen myself knowledge of the java programming language
 Programme covers topics such as:
 1) Work with different libraries(java.io.*;java.awt.*;javax.imageio.ImageIO)
